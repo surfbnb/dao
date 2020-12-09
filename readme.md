@@ -1,4 +1,4 @@
-# DAO Templates [![Build Status](https://travis-ci.org/aragon/dao-templates.svg?branch=master)](https://travis-ci.org/aragon/dao-templates)
+# SURFBNB DAO [![Build Status](https://travis-ci.org/aragon/dao-templates.svg?branch=master)](https://travis-ci.org/aragon/dao-templates)
 
 Instead of relying on anonymous TA or Yelp reviews, users can connect with a surf industry insider who shares your likes, interests, and preferences. The site serves up curated lists of available guides in each prime surf destination and facilitates one-on-one connections. The team is working on a compensation system for ambassadors, who currently work on a volunteer basis. They are our biggest assets and we hope they can be well compensated in the future.
 
