@@ -65,3 +65,5 @@ These templates were audited as part of the 0.6 and 0.7 releases by WHG and Cons
 ## Help
 
 For help and support, feel free to contact us at any time on [Spectrum](https://spectrum.chat/aragon/app-development).
+
+DISCLAIMER/  Understand this token request is not an investment.Nothing herein, nor any related documentation issued by the Project team, shall constitute legal, tax or investment advice. Please make sure to do your own due diligence regarding the Honeyswap protocol and the risk involved in providing liquidity. SurfBnB naturally has no control over the Honeyswap protocol and cannot be held accountable for any potential losses of any kind. This document does not constitute legal, financial or other advice and is not intended to be relied upon or used by any person for any purpose, other than informational and educational purposes. No attorney-client relationship or privilege is intended to be created or implied. No representation or warranty is being made as to the quality or fitness for any purpose of this document. Furthermore, this document is not recommended for use, but only for research.
